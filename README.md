@@ -1,4 +1,4 @@
-- Hey there! 👋
+🚀 Hey there! 👋
 Welcome to my GitHub profile! I'm Asma Akram, an AWS Certified Cloud Practitioner with a passion for all things Python, Linux, and cloud computing. Whether you stumbled upon my profile accidentally or deliberately, I'm excited to share my journey and projects with you.
 
 🚀 What I'm About
