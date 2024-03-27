@@ -16,6 +16,8 @@ Youtube: https://www.youtube.com/channel/UCNa87C77Yr3XfOGyUcCKOxA
 
 Medium: https://medium.com/@akram.asma
 
+[![AsmaAkram's GitHub | Stats](https://stats.quine.sh/AsmaAkram/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AsmaAkram)
+
 🤝 Let's Collaborate
 I'm always open to collaborations, discussions, and learning from fellow enthusiasts. If you have ideas, suggestions, or just want to chat, feel free to reach out. Together, let's explore the vast landscape of technology and create amazing things!
 
