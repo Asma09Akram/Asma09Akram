@@ -1,9 +1,3 @@
-![Badge 1](https://www.credly.com/earner/earned/badge/0b144813-a5eb-4ce6-9f8b-ee02837d7c37)
-
-
-![Badge 2]([https://badge-url-2](https://www.credly.com/earner/earned/badge/e96cf003-047c-4fad-9b3a-c46ce2e1f549))
-
-
 🚀 Hey there! 👋
 Welcome to my GitHub profile! I'm Asma Akram, an AWS Certified Cloud Practitioner with a passion for all things Python, Linux, and cloud computing. Whether you stumbled upon my profile accidentally or deliberately, I'm excited to share my journey and projects with you.
 
